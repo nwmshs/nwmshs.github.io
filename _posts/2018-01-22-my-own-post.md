@@ -13,4 +13,18 @@ I'm a brand new post and can be about anything you want. Try playing around with
 
 1. Zisowitz, Milton. *A Medical Center at Work.* New York: Whatsisname Press, 1963.
 
+A hagiographic account of the day-to-day operations of the Medical Center. Includes vignettes about several famous doctors.
+
 2. Aufses, Arthur. *History of Mount Sinai.* New York: Mount Sinai Press, 2002.
+
+Comprehensive account of the history of the institution. Focuses on.
+
+# Journals
+
+## The Medical Repository
+
+Founded by Samuel Latham Mitchill and two other guys. Lasted from 1797 to 1824.
+
+1. [Volume 1](http://web.archive.org)
+2. [Volume 2](http://web.archive.org)
+3. [Volume 3](http://web.archive.org)
