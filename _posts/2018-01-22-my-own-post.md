@@ -28,3 +28,9 @@ Founded by Samuel Latham Mitchill and two other guys. Lasted from 1797 to 1824.
 1. [Volume 1](http://web.archive.org)
 2. [Volume 2](http://web.archive.org)
 3. [Volume 3](http://web.archive.org)
+
+|Volume|Issue|Number|Link|
+|:----:|:---:|:----:|:----:|
+| 1    | 2   |      |[NYPL @ Hathitrust](http://web.archive.org)|
+|      |     |      |[UMich @ Hathitrust](http://web.archive.org)|
+| 1    | 3   |      |[NYPL @ Google Books](http://web.archive.org|
