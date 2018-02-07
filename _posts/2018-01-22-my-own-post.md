@@ -2,7 +2,7 @@
 layout: post
 title:  "Medical Publishing in New York City, 1797-1850"
 date:   2018-01-22
-categories: [ one, two, three ]
+categories: [ one, two, three, journal ]
 ---
 
 # Medical Publishing in New York City, 1797-1850: An Annotated Bibliography of Scanned Material
@@ -29,11 +29,12 @@ Comprehensive account of the history of the institution. Focuses on.
 
 Founded by Samuel Latham Mitchill and two other guys. Lasted from 1797 to 1824.
 
-|Volume|Issue|Number|Link|
+|Volume|Issue|Year|Link|
 |:----:|:---:|:----:|:----:|
 | 1    | 2   |      |[NYPL @ Hathitrust](http://web.archive.org)|
 |      |     |      |[UMich @ Hathitrust](http://web.archive.org)|
 | 1    | 3   |      |[NYPL @ Google Books](http://web.archive.org)|
+| 4    | 21  | 1821 |[KKH Wien @ Google Books](https://books.google.com/books?id=VpBbAAAAcAAJ)|
 
 ## The Medical Register
 
