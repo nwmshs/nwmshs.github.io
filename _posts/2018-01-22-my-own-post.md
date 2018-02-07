@@ -31,15 +31,15 @@ Founded by Samuel Latham Mitchill and two other guys. Lasted from 1797 to 1824.
 
 Appears to have been issued in "hexades" (volumes) of six issues each. The beginning of 3:1 (at UChicago) says "Another volume, constituting the first of the third hexade, or the thirteenth of the whole work, is now presented to the patronage of our readers and correspondents."
 
-|Volume|Issue|Year|Link|
-|:----:|:---:|:----:|:----:|
-| 1    | 2   |      |[NYPL @ Hathitrust](http://web.archive.org)|
-|      |     |      |[UMich @ Hathitrust](http://web.archive.org)|
-| 2    | 3   | 1805 |[NYPL @ Google Books](https://books.google.com/books?id=dA5LAAAAYAAJ)|
-|      |     |      |"Vol. II / 3rd Edition" |
-| 3    | 1   | 1810 |[UChicago @ Google Books](https://books.google.com/books?id=V_wfAQAAMAAJ)|
-|      |     |      |"Third Hexade Vol. 1" |
-| 4    | 21  | 1821 |[KKH Wien @ Google Books](https://books.google.com/books?id=VpBbAAAAcAAJ)|
+|Hexade| Volume |Issue(s)| Year | Link |
+|:----:|:------:|:---:   |:----:|:----:|
+| 2    | 1 (7)  |        | 1804 |[NYPL @ Google Books](https://books.google.com/books?id=5U9JAAAAYAAJ)|
+|      | 2      | 3      | 1805 |[NYPL @ Google Books](https://books.google.com/books?id=dA5LAAAAYAAJ)|
+|      |        |        |      |"Vol. II / 3rd Edition" |
+| 2    | 5 (11) |        | 1808 |[NYPL @ Google Books](https://books.google.com/books?id=Ij9JAAAAYAAJ)|
+| 3    | 1 (13) | 1 (13) | 1810 |[UChicago @ Google Books](https://books.google.com/books?id=V_wfAQAAMAAJ)|
+|      |        |        |      |"Third Hexade Vol. 1" |
+|      | 4      | 21     | 1821 |[KKH Wien @ Google Books](https://books.google.com/books?id=VpBbAAAAcAAJ)|
 
 
 ## The Medical Register
