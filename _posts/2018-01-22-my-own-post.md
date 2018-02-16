@@ -74,6 +74,8 @@ Volumes generally commenced in June.
 
 [main HathiTrust record (Princeton)](https://catalog.hathitrust.org/Record/008904968)
 
+Volume 33 (1895-1896) is the last version appearing in the relatively complete UMich set.
+
 | Title                                                          | Year      | Volume | Link  |
 |:---------------------------------------------------------------|:---------:|:------:|:-----:|
 | *The Medical Register of the City of New York*                 | 1864-1865 | (2)    | [UMich (Google) @ HathiTrust](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072258786) |
