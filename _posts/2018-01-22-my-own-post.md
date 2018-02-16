@@ -75,7 +75,7 @@ Volumes generally commenced in June.
 [main HathiTrust record (Princeton)](https://catalog.hathitrust.org/Record/008904968)
 
 | Title                                                          | Year      | Volume | Link  |
-|:--------------------------------------------------------------:|:---------:|:------:|:-----:|
+|:---------------------------------------------------------------|:---------:|:------:|:-----:|
 | *The Medical Register of the City of New York*                 | 1864-1865 | (2)    | [UMich (Google) @ HathiTrust](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072258786) |
 |                                                                |           |        | [UMich @ Google Books](https://books.google.com/books?id=4cg0AQAAMAAJ)                   |
 |                                                                | 1865-1866 | (3)    | [UMich (Google) @ HathiTrust](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072258778) |
@@ -91,7 +91,7 @@ Volumes generally commenced in June.
 | *The Medical Register of New York, New Jersey and Connecticut* | 1875-1876 | 13     | [UMich (Google) @ HathiTrust](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072259008) |
 |                                                                | 1893-1894 | 31     | [Princeton (Google) @ HathiTrust](https://babel.hathitrust.org/cgi/pt?id=njp.32101058156983) |
 
-Table of contents for 1864 volume
+### Table of contents for 1864 volume
 
 Note additional pages between 65 and 73 imposed by a scanner's hand
 
@@ -118,3 +118,16 @@ Note additional pages between 65 and 73 imposed by a scanner's hand
 | Pharmacists | [198](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072258786;seq=206) |
 | Nurses | [200](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072258786;seq=208) |
 | (additional ancillary professionals) | [201](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072258786;seq=209) |
+
+## The Medical Directory of the City of New York (1887-)
+
+Published by the Medical Society of the County of New York. First volume in 1887. Published at least through 1905 under this title.
+
+[various places at HathiTrust](https://catalog.hathitrust.org/Record/008607461)
+
+## The Medical Directory of New York, New Jersey and Connecticut (1899-)
+
+A post-consolidation situation apparently. Published by the Medical Society of the *State* of New York.
+
+[UMich at HathiTrust, incorrectly labeled as just New York State](https://catalog.hathitrust.org/Record/001719171)
+[Columbia and Princeton at HathiTrust](https://catalog.hathitrust.org/Record/009027724)
