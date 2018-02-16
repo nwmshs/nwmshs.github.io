@@ -92,8 +92,10 @@ Volume 33 (1895-1896) is the last version appearing in the relatively complete U
 |                                                                | 1874-1875 | 12     | missing from UMich sequence in HathiTrust |
 | *The Medical Register of New York, New Jersey and Connecticut* | 1875-1876 | 13     | [UMich (Google) @ HathiTrust](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072259008) |
 |                                                                | 1893-1894 | 31     | [Princeton (Google) @ HathiTrust](https://babel.hathitrust.org/cgi/pt?id=njp.32101058156983) |
+|                                                                | 1894-1895 | 32     | |
+|                                                                | 1895-1896 | 33     | [UMich (Google) @ HathiTrust](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072259164) |
 
-### Table of contents for 1864 volume
+### Table of Contents for Volume 2 (1864)
 
 Note additional pages between 65 and 73 imposed by a scanner's hand
 
@@ -120,6 +122,53 @@ Note additional pages between 65 and 73 imposed by a scanner's hand
 | Pharmacists | [198](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072258786;seq=206) |
 | Nurses | [200](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072258786;seq=208) |
 | (additional ancillary professionals) | [201](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072258786;seq=209) |
+
+### Table of Contents for Volume 33 (1895-1896)
+
+| Contents | Page |
+|:---------|------|
+| Front Cover | [np](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072259164;seq=1) |
+| (advertisements) | [np](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072259164;seq=2) |
+| (inscription; unique to UMich copy?) | [np](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072259164;seq=3) |
+| (advertisements) | [np](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072259164;seq=7) |
+| Title Page | [i](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072259164;seq=35) |
+| Preface | [iii](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072259164;seq=37) |
+| Index | [v](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072259164;seq=39) |
+| Index to Advertisers | [xxvi](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072259164;seq=1) |
+| New York City Street List Containing the Names of Practitioners in the County of New York | [xxvii](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072259164;seq=61) |
+| Alphabetical List of Physicians (New York City) | [xlii](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072259164;seq=76) |
+| Physicians Retired, Or Engaged In Other Pursuits (New York City) | [cxv](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072259164;seq=153) |
+| Removals and Changes | [cxv](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072259164;seq=153) |
+| Alphabetical List of Physicians (Brooklyn and Kings County) | [cxvii](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072259164;seq=155) |
+| Removals and Changes; Deceased (Brooklyn and Kings County) | [cxlii](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072259164;seq=180) |
+| Brooklyn Street List Containing the Names of Practitioners in the City of Brooklyn | [cxliii](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072259164;seq=181) |
+| Pharmacists | [cxlix](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072259164;seq=187) |
+| Dentists | [clvi](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072259164;seq=194) |
+| Pharmacists (Kings County) | [clxiii](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072259164;seq=201) |
+| Brooklyn Dentists | [clxvii](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072259164;seq=205) |
+| National Medical Associations | [1](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072259164;seq=207) |
+| State Medical Associations in Affiliation with the AMA | [7](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072259164;seq=213) |
+| Medical Associations of New York City | [10](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072259164;seq=216) |
+| Benevolent Institutions - Asylums, Charities, Homes, Orphanages and Societies (New York City) | [23](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072259164;seq=229) |
+| Hospitals of New York City | [40](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072259164;seq=246) |
+| Dispensaries and Infirmaries (New York City) | [57](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072259164;seq=263) |
+| Medical Colleges of New York City | [66](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072259164;seq=272) |
+| Medical Prizes | [72](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072259164;seq=278) |
+| Executive Departments (City of New York) | [75](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072259164;seq=281) |
+| Medical Societies (Brooklyn) | [78](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072259164;seq=284) |
+| Benevolent Institutions and Societies (Brooklyn) | [79](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072259164;seq=285) |
+| Asylums, Homes, Orphanages and Nurseries (Brooklyn) | [82](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072259164;seq=288) |
+| Hospitals, Dispensaries and Infirmaries (Brooklyn) | [85](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072259164;seq=291) |
+| Medical College and Prizes of Brooklyn | [90](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072259164;seq=296) |
+| Executive Departments (Brooklyn, N.Y.) | [92](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072259164;seq=298) |
+| Medical Society of the State of New York | [93](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072259164;seq=299) |
+| Medical Associations - New York State | [94](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072259164;seq=300) |
+| Asylums, Dispensaries and Hospitals in New York State | [100](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072259164;seq=306) |
+| Medical Colleges - New York State | [107](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072259164;seq=313) |
+| Examining Surgeons of the Pension Bureau in the State of New York | [109](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072259164;seq=315) |
+| Medical Register of the State of New York | [112](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072259164;seq=318) |
+| Medical Register of the State of New Jersey | [151](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072259164;seq=357) |
+| thru ?seq=370 | |
 
 ## The Medical Directory of the City of New York (1887-)
 
