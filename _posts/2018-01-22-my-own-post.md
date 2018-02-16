@@ -73,7 +73,8 @@ Volumes generally commenced in June.
 Table of contents for 1864 volume
 Note additional pages between 65 and 73 imposed by a scanner's hand
 
-|:-----------:|:---:|
+| Contents | Page |
+|:--------:|:----:|
 | Front Page | [1](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072258786;seq=7) |
 | Table of Contents | [5](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072258786;seq=11) |
 | Preface | [9](https://babel.hathitrust.org/cgi/pt?id=mdp.39015072258786;seq=15) |
