@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Medical Register of the City of New York, Volume 2 (1864-1865)"
+title:  "Medical Register of the City of New York, Volume 2 (1864-1865) / Table of Contents"
 date:   2018-02-20
 categories: [ one, two, three, journal ]
 ---
