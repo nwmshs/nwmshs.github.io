@@ -2,7 +2,7 @@
 layout: post
 title:  "Medical Publishing in New York City, 1797-1850"
 date:   2018-01-22
-categories: [ one, two, three, journal ]
+categories: [ ]
 ---
 
 # Medical Publishing in New York City, 1797-1850: An Annotated Bibliography of Scanned Material
