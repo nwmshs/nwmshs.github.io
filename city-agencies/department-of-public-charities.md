@@ -1,5 +1,5 @@
 ---
-title: "Department of Public Charities"
+title: "Department of Public Charities (1896-1920)"
 ---
 
 The **Department of Public Charities** was formed in 1896 by the division of the previous **Department of Public Charities and Corrections** into two separate departments.
