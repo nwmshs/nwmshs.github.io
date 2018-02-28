@@ -28,6 +28,10 @@ In 1903, the City Club of New York, presumably a Progressive reform agency of so
 |The Department of Public Charities of the City of New York: A Statement of Facts | 1903 | [Harvard (Google) @ HathiTrust (copy 1)](https://babel.hathitrust.org/cgi/pt?id=hvd.li5d9d) |
 | | | [Harvard (Google) @ HathiTrust (copy 2)](https://babel.hathitrust.org/cgi/pt?id=hvd.32044009504044) |
 
+[Also this one in HathiTrust](https://catalog.hathitrust.org/Record/001131975)
+
+[also](https://catalog.hathitrust.org/Record/100565731)
+
 ### *The Hospital Bulletin*
 
 Briefly published record of cases from the hospitals. (Should this go under Medical Journals? idk)
