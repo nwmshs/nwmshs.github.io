@@ -10,7 +10,7 @@ test test test
 
 test test test
 
-### [Department of Public Charities (1896-1920)](../department-of-public-charities/)
+### [Department of Public Charities (1896-1920)](department-of-public-charities/)
 
 test test test
 
