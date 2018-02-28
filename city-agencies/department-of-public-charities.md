@@ -19,3 +19,11 @@ In 1920 the name of the department was changed to the **Department of Public Wel
 
 | Year | Link |
 |:----:| [test](URL) |
+
+### Miscellaneous Works
+
+In 1903, the City Club of New York, presumably a Progressive reform agency of some sort, published *The Department of Public Charities of the City of New York: A Statement of Facts*.
+
+|:----:|:---:|:----:|
+|The Department of Public Charities of the City of New York: A Statement of Facts | 1903 | [Harvard (Google) @ HathiTrust (copy 1)](https://babel.hathitrust.org/cgi/pt?id=hvd.li5d9d) |
+| | | [Harvard (Google) @ HathiTrust (copy 2)](https://babel.hathitrust.org/cgi/pt?id=hvd.32044009504044) |
