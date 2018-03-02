@@ -42,12 +42,14 @@ Source: "A 'Costly Looking Barn' for the Charities Agency" (New York Times 9/17/
 | 1888 |        | |
 | 1889 |        | |
 | 1890 |        | |
-| 1891 |        | |
+| 1891 |   32   | [UChicago (Google) @ HathiTrust](https://babel.hathitrust.org/cgi/pt?id=chi.097577802) |
 | 1892 |        | |
-| 1893 |        | |
+| 1893 |   34   | [UChicago (Google) @ HathiTrust](https://babel.hathitrust.org/cgi/pt?id=chi.097577828) |
 | 1894 |        | |
 
-*This series is incomplete. If you are aware of any additional public domain volumes available online, please contact us.* 
+Annual reports of the subsequent Department of Public Charities begin in 1895.
+
+*This series is incomplete! If you are aware of any additional public domain volumes available online, please contact the site owner.* 
 
 ### Minutes
 
