@@ -1,5 +1,5 @@
 ---
-title: "Department of Public Charities and Corrections (1860-1895)
+title: "Department of Public Charities and Corrections (1860-1895)"
 ---
 
 The **Department of Public Charities and Corrections** was established in 1860.
